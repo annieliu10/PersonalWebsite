@@ -451,6 +451,15 @@ a:hover {
 /*--------------------------------------------------------------
 # Nav Bar
 --------------------------------------------------------------*/
+.underlineHover:hover {
+  text-decoration: underline;
+  color: #0078ff;
+}
+
+.bold {
+  font-weight: bold;
+}
+
 .navbar-b {
   transition: all 0.5s ease-in-out;
   background-color: transparent;
